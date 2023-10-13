@@ -1,3 +1,6 @@
+*This repo is no longer maintained. Please see [b4ck5p4c3/iot-devices](https://github.com/b4ck5p4c3/iot-devices/tree/main/devices/sp4ce-button)*
+-----
+
 # sp4ce-button
 ![The Button](https://i.imgur.com/3p3PEKL.png)
 
